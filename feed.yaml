@@ -38,3 +38,9 @@ item:
     file: /audio/TFIT05.mp3
     duration: 00:00:22
     length: 352,587
+  - title: EP06-AI will replace us
+    description: Mateusz Chrobok will discuss future of work with AI assisstance
+    published: Tue, 19 Mar 2024 11:00:00 GMT
+    file: /audio/TFIT06.mp3
+    duration: 00:00:41
+    length: 456,597
