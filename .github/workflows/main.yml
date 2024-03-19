@@ -7,4 +7,6 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: Run Feed Generator
+        env:
+          HOME=/root
         uses: t0mmili/podcast-generator@main
