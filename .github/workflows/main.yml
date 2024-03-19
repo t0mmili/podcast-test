@@ -8,5 +8,5 @@ jobs:
         uses: actions/checkout@v3
       - name: Run Feed Generator
         env:
-          HOME=/root
+          HOME: /root
         uses: t0mmili/podcast-generator@main
